@@ -24,3 +24,6 @@ dedication
 ## fun
 fun fun fun
 funs funs funs c
+
+##Copyright
+(c) 2025 fbv

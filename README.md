@@ -16,7 +16,9 @@ list:
 ## deployment
 
 ## purpose
+purpose purpose 
 
 ## dededication
+dedication
 
 ## fun

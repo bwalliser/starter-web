@@ -26,4 +26,4 @@ fun fun fun
 funs funs funs c
 
 ##Copyright
-(c) 2025 fbv
+(c) 2025 fbv and ZZ

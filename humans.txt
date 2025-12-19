@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    jason taylor jd@dd.com
 
 # THANKS
 

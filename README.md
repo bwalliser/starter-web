@@ -28,4 +28,4 @@ plop plop plop top
 top top top
 
 ##Copyright
-(c) 2025 fbv and ZZ
+(c) 2025 fbv and ZZ all rights reserved

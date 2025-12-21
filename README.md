@@ -20,7 +20,7 @@ first deployment
 purpose purpose 
 
 ## dededication
-dedication?
+dedication!!
 
 ## fun
 fun fun fun
